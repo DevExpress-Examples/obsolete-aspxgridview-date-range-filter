@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # OBSOLETE - ASPxGridView - How to customize RowFilter in DataDateColumn and provide two ASPxDateEdit controls that allow setting a date range as a filter expression
 
 
